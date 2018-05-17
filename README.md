@@ -14,7 +14,7 @@ Renomear o arquivo de taxas recebido para *product\_tax\_paiva.json* e o arquivo
 
 Copiar o arquivo *product\_tax\_paiva.json* para o Android Studio, sobrescrevendo os que estão na pasta *assets/mocks*
 
-![](./img/image1.png?raw=true)
+![](./image1.png?raw=true)
 
 Executar a aplicação e realizar o login com qualquer qualquer usuário
 
@@ -22,18 +22,18 @@ Aguardar o fim da carga e salvar o arquivo em um disco local usando o Android St
 
 * Clicar em Device File Explorer
 
-![](./img/image2.png?raw=true)
+![](./image2.png?raw=true)
 
 * Navegar até *data/data/com.mongeralaegon.vendadigital/files* clicar com o botão direito em *vendadigitaltaxes.realm*
 
-![](./img/image3.png?raw=true)
+![](./image3.png?raw=true)
 
 * Salvar no disco local
 
 Criar uma nova feature a partir de **develop**, copiar o arquivo *group_profession.json* para a pasta *assets/mocks* e o banco novo para a pasta *assets/database*
 
-![](./img/image4.png?raw=true)
+![](./image4.png?raw=true)
 
-![](./img/image5.png?raw=true)
+![](image5.png?raw=true)
 
 Criar o PR da nova feature
