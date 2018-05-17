@@ -10,7 +10,7 @@
 
 3. Renomear o arquivo de taxas recebido para *product\_tax\_paiva.json* e o arquivo de grupo para *group\_profession.json*
 
-4. Copiar o arquivo *product\_tax\_paiva.json* para o Android Studio, sobrescrevendo os que estão na pasta *assets/mocks*
+4. Copiar os arquivos *product\_tax\_paiva.json* e *group\_profession.json* para o Android Studio, sobrescrevendo os que estão na pasta *assets/mocks*
 
     ![Step 4](step4.png?raw=true)
 
