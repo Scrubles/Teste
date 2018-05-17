@@ -28,7 +28,7 @@
 
     6.3 Salvar no disco local
 
-7. Criar uma nova feature a partir de **develop**, copiar o arquivo*group_profession.json*para a pasta *assets/mocks* e o banco novo para a pasta *assets/database*
+7. Criar uma nova feature a partir de **develop**, copiar o arquivo *group_profession.json* para a pasta *assets/mocks* e o banco novo para a pasta *assets/database*
 
     ![Step 7(1)](step7(1).png?raw=true)
 
