@@ -3,9 +3,9 @@
 ## Carregar taxas do aplicativo
 
 1. Fazer checkout do branch carga_taxas
-```
-git checkout carga_taxas
-```
+    ```
+    git checkout carga_taxas
+    ```
 2. Desinstalar a aplicação do dispositivo onde a carga será executada
 
 3. Renomear o arquivo de taxas recebido para *product\_tax\_paiva.json* e o arquivo de grupo para *group\_profession.json*
