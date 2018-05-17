@@ -6,6 +6,7 @@
     ```
     git checkout carga_taxas
     ```
+
 2. Desinstalar a aplicação do dispositivo onde a carga será executada
 
 3. Renomear o arquivo de taxas recebido para *product\_tax\_paiva.json* e o arquivo de grupo para *group\_profession.json*
@@ -18,15 +19,15 @@
 
 6. Aguardar o fim da carga e salvar o arquivo em um disco local usando o Android Studio
 
-    * Clicar em Device File Explorer
+    6.1 Clicar em Device File Explorer
 
-        ![](./image2.png?raw=true)
+    ![](./image2.png?raw=true)
 
-    * Navegar até *data/data/com.mongeralaegon.vendadigital/files* clicar com o botão direito em *vendadigitaltaxes.realm*
+    6.2 Navegar até *data/data/com.mongeralaegon.vendadigital/files* clicar com o botão direito em *vendadigitaltaxes.realm*
 
-        ![](./image3.png?raw=true)
+    ![](./image3.png?raw=true)
 
-    * Salvar no disco local
+    6.3 Salvar no disco local
 
 7. Criar uma nova feature a partir de **develop**, copiar o arquivo *group_profession.json* para a pasta *assets/mocks* e o banco novo para a pasta *assets/database*
 
