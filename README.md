@@ -12,7 +12,7 @@ git checkout carga_taxas
 
 4. Copiar o arquivo *product\_tax\_paiva.json* para o Android Studio, sobrescrevendo os que estão na pasta *assets/mocks*
 
-![](./image1.png?raw=true)
+    ![](./image1.png?raw=true)
 
 5. Executar a aplicação e realizar o login com qualquer qualquer usuário
 
@@ -20,18 +20,18 @@ git checkout carga_taxas
 
     * Clicar em Device File Explorer
 
-    ![](./image2.png?raw=true)
+        ![](./image2.png?raw=true)
 
     * Navegar até *data/data/com.mongeralaegon.vendadigital/files* clicar com o botão direito em *vendadigitaltaxes.realm*
 
-    ![](./image3.png?raw=true)
+        ![](./image3.png?raw=true)
 
     * Salvar no disco local
 
 7. Criar uma nova feature a partir de **develop**, copiar o arquivo *group_profession.json* para a pasta *assets/mocks* e o banco novo para a pasta *assets/database*
 
-![](./image4.png?raw=true)
+    ![](./image4.png?raw=true)
 
-![](./image5.png?raw=true)
+    ![](./image5.png?raw=true)
 
 8. Criar o PR da nova feature
