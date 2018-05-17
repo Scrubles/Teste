@@ -18,15 +18,15 @@ git checkout carga_taxas
 
 6. Aguardar o fim da carga e salvar o arquivo em um disco local usando o Android Studio
 
-    * Clicar em Device File Explorer
+  * Clicar em Device File Explorer
 
 ![](./image2.png?raw=true)
 
-    * Navegar até *data/data/com.mongeralaegon.vendadigital/files* clicar com o botão direito em *vendadigitaltaxes.realm*
+  * Navegar até *data/data/com.mongeralaegon.vendadigital/files* clicar com o botão direito em *vendadigitaltaxes.realm*
 
 ![](./image3.png?raw=true)
 
-    * Salvar no disco local
+  * Salvar no disco local
 
 7. Criar uma nova feature a partir de **develop**, copiar o arquivo *group_profession.json* para a pasta *assets/mocks* e o banco novo para a pasta *assets/database*
 
