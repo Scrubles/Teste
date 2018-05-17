@@ -2,23 +2,21 @@
 
 ## Carregar taxas do aplicativo
 
-Fazer checkout do branch carga_taxas
-
+1. Fazer checkout do branch carga_taxas
 ```
 git checkout carga_taxas
 ```
+2. Desinstalar a aplicação do dispositivo onde a carga será executada
 
-Desinstalar a aplicação do dispositivo onde a carga será executada
+3. Renomear o arquivo de taxas recebido para *product\_tax\_paiva.json* e o arquivo de grupo para *group\_profession.json*
 
-Renomear o arquivo de taxas recebido para *product\_tax\_paiva.json* e o arquivo de grupo para *group\_profession.json*
-
-Copiar o arquivo *product\_tax\_paiva.json* para o Android Studio, sobrescrevendo os que estão na pasta *assets/mocks*
+4. Copiar o arquivo *product\_tax\_paiva.json* para o Android Studio, sobrescrevendo os que estão na pasta *assets/mocks*
 
 ![](./image1.png?raw=true)
 
-Executar a aplicação e realizar o login com qualquer qualquer usuário
+5. Executar a aplicação e realizar o login com qualquer qualquer usuário
 
-Aguardar o fim da carga e salvar o arquivo em um disco local usando o Android Studio
+6. Aguardar o fim da carga e salvar o arquivo em um disco local usando o Android Studio
 
 * Clicar em Device File Explorer
 
@@ -30,10 +28,10 @@ Aguardar o fim da carga e salvar o arquivo em um disco local usando o Android St
 
 * Salvar no disco local
 
-Criar uma nova feature a partir de **develop**, copiar o arquivo *group_profession.json* para a pasta *assets/mocks* e o banco novo para a pasta *assets/database*
+7. Criar uma nova feature a partir de **develop**, copiar o arquivo *group_profession.json* para a pasta *assets/mocks* e o banco novo para a pasta *assets/database*
 
 ![](./image4.png?raw=true)
 
-![](image5.png?raw=true)
+![](./image5.png?raw=true)
 
-Criar o PR da nova feature
+8. Criar o PR da nova feature
